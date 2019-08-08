@@ -49,7 +49,7 @@ function makeSound(key) {
       break;
 
     case "j":
-    var snare = new Audio('sounds/snare.mp3');
+    var snare = new Audio('snare.mp3');
     snare.play();
       break;
 
